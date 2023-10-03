@@ -1,3 +1,4 @@
+* Tolino notes exporter for Orgmode
 * Currently tested with:
 - Tolino Shine 2 HD 1.94 and *German* firmware
 - Tolino Shine 3 *German* firmware (Version 15.2.0) 
@@ -34,4 +35,5 @@ Von "The Art of Photography: An Approach to Personal Expression (Barnbaum, Bruce
 #+BEGIN_SRC
 python3 export.py ~/path/notes.txt
 #+END_SRC
-4. The file ".last_export.orgexport" will store the last current state. Delete it, if you want to try the process again.
+* Reminder
+The file ".last_export.orgexport" will store the last current state. Delete it, if you want to try the process again.
