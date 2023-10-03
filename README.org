@@ -1,18 +1,27 @@
-Currently only tested with Tolino Shine 2 HD 1.94, *German* firmware
+* Currently tested with:
+- Tolino Shine 2 HD 1.94 and *German* firmware
+- Tolino Shine 3 *German* firmware (Version 15.2.0) 
 
-Notes will look somewhat like this:
+* Notes will look like this:
 
 #+begin_src org
-* "Edward Weston was a foremost exponent of texture. " :highlighted:
+* The Art of Photography: An Approach to Personal Expression (Barnbaum, Bruce)
 :PROPERTIES:
-:CREATED:  [2017-03-18 Sat 20:45]
+:CREATED:  [2023-10-03 Tue 20:45]
 :END:
-
-
+** S. 136 "Edward Weston was a foremost exponent of texture." :lesezeichen:
+:PROPERTIES:
+:CREATED:  [2023-10-03 Tue 20:45]
+:END:
 #+begin_quote
 Edward Weston was a foremost exponent of texture. 
 #+end_quote
-
-From "The Art of Photography: An Approach to Personal Expression (Barnbaum, Bruce)", p.66
-
-#+end_src
+Von "The Art of Photography: An Approach to Personal Expression (Barnbaum, Bruce)", S. 136
+** S. 201 "Lorem ipsum is a great text." :markierung:
+:PROPERTIES:
+:CREATED:  [2023-10-05 Tue 20:15]
+:END:
+#+begin_quote
+Lorem ipsum is a great text.
+#+end_quote
+Von "The Art of Photography: An Approach to Personal Expression (Barnbaum, Bruce)", S. 201
