@@ -25,6 +25,7 @@ Von "The Art of Photography: An Approach to Personal Expression (Barnbaum, Bruce
 Lorem ipsum is a great text.
 #+end_quote
 Von "The Art of Photography: An Approach to Personal Expression (Barnbaum, Bruce)", S. 201
+#+end_src org
 
 * Get started
 1. Clone this repo
