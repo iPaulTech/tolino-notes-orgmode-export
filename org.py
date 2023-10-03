@@ -52,3 +52,9 @@ def headline(title, content, created=None, todo='', state_changes=[], properties
 
     return s
 
+def datepropertie(created=None, properties=None):
+    if not properties:
+        properties = []
+    if created:
+        properties.append(('created', inactive_date(date(created))))
+    return drawer('properties', properties)
