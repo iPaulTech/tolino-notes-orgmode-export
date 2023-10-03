@@ -143,7 +143,7 @@ def main():
                     addoutput(org.datepropertie(note_item.note_date))
 
                 #Create note text (/Bookname/Note)
-                addoutput("** S. " + note_item.note_page + " " + note_item.note_title + ' :' + note_item.note_type + ":" "\n")
+                addoutput("** S. " + note_item.note_page + " " + note_item.note_title + '" :' + note_item.note_type + ":" "\n")
                 #Datepropertie for note
                 addoutput(org.datepropertie(note_item.note_date))
                 #Quote
